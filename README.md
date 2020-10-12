@@ -17,6 +17,6 @@ Here are some ideas to get you started:
   <img src="https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif">
 </p>
 
-:five: **My Top 4 languages :**
+:four: **My Top 4 languages :**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanihaldar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
