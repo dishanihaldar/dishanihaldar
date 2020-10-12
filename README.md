@@ -11,12 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-> HI there
-
-`hi there`
-
 [Dishani](https://www.google.co.in)
 
 <p align="center">
-  <img src="">
+  <img src="https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif">
 </p>
